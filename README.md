@@ -1,6 +1,6 @@
 # PDGT #01: la mia prima repository
 
-Questo è il tuo primo esperimento con una repository. Prova a prendere familiarità con Git e Github.
+Questo è il tuo primo esperimento con una repository. Prova a prendere familiarità con Git e GitHub.
 
 ## Informazioni
 
